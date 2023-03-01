@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Feb 2023 09:57:23 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>奥数01</title>
+      <link>http://example.org/02.git/math/chinese3b_01_test/</link>
+      <pubDate>Fri, 17 Feb 2023 09:57:23 +0800</pubDate>
+      
+      <guid>http://example.org/02.git/math/chinese3b_01_test/</guid>
+      <description>奥数题01 </description>
+    </item>
+    
+    <item>
+      <title>数学三年级下册知识点总结</title>
+      <link>http://example.org/02.git/math/chinese3b_01/</link>
+      <pubDate>Fri, 17 Feb 2023 09:57:23 +0800</pubDate>
+      
+      <guid>http://example.org/02.git/math/chinese3b_01/</guid>
+      <description>数学三年级下册第一单元总结 </description>
+    </item>
+    
+    <item>
+      <title>语文三年级下册第一单元总结</title>
+      <link>http://example.org/04.mysql/chinese3outclass/chinese3_01unit/</link>
+      <pubDate>Fri, 17 Feb 2023 09:57:23 +0800</pubDate>
+      
+      <guid>http://example.org/04.mysql/chinese3outclass/chinese3_01unit/</guid>
+      <description>语文三年级下册第一单元总结 </description>
+    </item>
+    
+    <item>
+      <title>语文三年级下册第一单元总结</title>
+      <link>http://example.org/07.designmode/chinese3/chinese3_01unit/</link>
+      <pubDate>Fri, 17 Feb 2023 09:57:23 +0800</pubDate>
+      
+      <guid>http://example.org/07.designmode/chinese3/chinese3_01unit/</guid>
+      <description>语文三年级下册第一单元总结 </description>
+    </item>
+    
+    <item>
+      <title>语文三年级下册第一单元总结</title>
+      <link>http://example.org/08.mircservice/chinese3/chinese3_01unit/</link>
+      <pubDate>Fri, 17 Feb 2023 09:57:23 +0800</pubDate>
+      
+      <guid>http://example.org/08.mircservice/chinese3/chinese3_01unit/</guid>
+      <description>语文三年级下册第一单元总结 </description>
+    </item>
+    
+    <item>
+      <title>语文三年级下册第一单元总结</title>
+      <link>http://example.org/09.maven/picture02/chinese3_01unit/</link>
+      <pubDate>Fri, 17 Feb 2023 09:57:23 +0800</pubDate>
+      
+      <guid>http://example.org/09.maven/picture02/chinese3_01unit/</guid>
+      <description>语文三年级下册第一单元总结 </description>
+    </item>
+    
+    <item>
+      <title>语文三年级下册资料汇总链接</title>
+      <link>http://example.org/04.mysql/chinese3outclass/chinese3_01unit_test/</link>
+      <pubDate>Fri, 17 Feb 2023 09:57:23 +0800</pubDate>
+      
+      <guid>http://example.org/04.mysql/chinese3outclass/chinese3_01unit_test/</guid>
+      <description>三年级语文下册视频合集：同步+习作+古诗词+基础知识+字词听写 学习第一站
+公众号学习第一站学习菜单
+https://mp.weixin.qq.com/s?__biz=MzIxOTY1MTI1OA==&amp;amp;mid=2247503272&amp;amp;idx=5&amp;amp;sn=1da8e8c67763c4f5657d6c8ef19de0db&amp;amp;scene=19#wechat_redirect
+小学 语文 数学 英语 初中 语文 数学 英语 物理 化学 政史地 高中 语文 数学 英语 物理 化学 政史地 学习第一站汇总资料链接： https://mp.weixin.qq.com/mp/homepage?__biz=MzIxOTY1MTI1OA==&amp;amp;hid=2&amp;amp;sn=4706623016fa262fcd2e44945853a7da&amp;amp;scene=25#wechat_redirect：
+上述链接分链接： 三年级语文上册视频合集：同步+习作+古诗词+基础知识+字词听写
+http://mp.weixin.qq.com/s?__biz=MzIxOTY1MTI1OA==&amp;amp;mid=2247509943&amp;amp;idx=5&amp;amp;sn=7315edb210053af0db23b598e8eb56b5&amp;amp;scene=19#wechat_redirect
+三年级语文下册视频合集：同步+习作+古诗词+基础知识+字词听写
+http://mp.weixin.qq.com/s?__biz=MzIxOTY1MTI1OA==&amp;amp;mid=2247506437&amp;amp;idx=4&amp;amp;sn=7680d646bb5370238fa831e2cfc11222&amp;amp;scene=19#wechat_redirect
+三年级语文上册知识点考点汇总：单元小结+每课考点梳理+图文解读教材+预习卡+基础专项+课件教案等
+http://mp.weixin.qq.com/s?__biz=MzIxOTY1MTI1OA==&amp;amp;mid=2247509940&amp;amp;idx=5&amp;amp;sn=e6165d901b685fdb76ebe1d2c24d4aea&amp;amp;scene=19#wechat_redirect
+三年级语文下册知识点考点汇总：单元小结+每课考点梳理+图文解读教材+预习卡+基础专项+课件教案等
+http://mp.weixin.qq.com/s?__biz=MzIxOTY1MTI1OA==&amp;amp;mid=2247503272&amp;amp;idx=5&amp;amp;sn=1da8e8c67763c4f5657d6c8ef19de0db&amp;amp;scene=19#wechat_redirect
+题库 部编版三年级语文上册 单元+期中期末+专项+课课练
+http://mp.weixin.qq.com/s?__biz=MzIxOTY1MTI1OA==&amp;amp;mid=2247509739&amp;amp;idx=5&amp;amp;sn=dade991fe379837a57bb5697c57ee851&amp;amp;scene=19#wechat_redirect
+题库 部编版小学语文三年级下册 单元卷 课课卷 期中期末卷 专项卷
+http://mp.weixin.qq.com/s?__biz=MzIxOTY1MTI1OA==&amp;amp;mid=2247506457&amp;amp;idx=4&amp;amp;sn=4ab17ecd128b7611f3bdf60a5c321194&amp;amp;scene=19#wechat_redirect
+同步视频
+部编版三年级语文下册同步微课视频
+三年级语文下册名师微课视频
+三年级语文下册课文预习视频
+三年级语文下册部编版课文视频朗读
+部编版三年级语文下册 生字讲解视频
+部编版三年级语文下册古诗 图文+视频解析
+部编版语文三年级下册单元同步作文视频+习作范文+名师点评
+写字视频
+小学语文硬笔书法课 汉字书写 铅笔书法视频合集
+规范写字入门笔画书写视频
+写作视频
+小学语文一二年级看图写话60讲视频合集
+小学语文应用文书写作技巧视频合集
+小学语文必学写作技巧40讲视频合集
+小学3-6年级作文提高班视频
+语文基础知识视频
+1-6年级阅读理解技巧视频精讲合集
+小学1-6年级语文基础知识视频精讲合集</description>
+    </item>
+    
+    <item>
+      <title>语文三年级下古诗解析</title>
+      <link>http://example.org/03.redis/chinese3/chinese3_01unit_pemo/</link>
+      <pubDate>Fri, 17 Feb 2023 09:57:23 +0800</pubDate>
+      
+      <guid>http://example.org/03.redis/chinese3/chinese3_01unit_pemo/</guid>
+      <description>部编版三年级语文下册古诗 图文+视频解析 部编版三年级语文下册古诗 图文+视频解析
+部编版三年级语文下册古诗 图文+视频解析：第1首《绝句》
+部编版三年级语文下册古诗 图文+视频解析：第2首《惠崇&amp;lt;春江晚景&amp;gt;》
+部编版三年级语文下册古诗 图文+视频解析：第3首《三衢道中》
+部编版三年级语文下册古诗 图文+视频解析：第4首《忆江南》
+部编版三年级语文下册古诗 图文+视频解析：第5首《元日》
+部编版三年级语文下册古诗 图文+视频解析：第6首《清明》
+部编版三年级语文下册古诗 图文+视频解析：第7首《九月九日忆山东兄弟》
+部编版三年级语文下册古诗 图文+视频解析：第8首《滁州西涧》
+部编版三年级语文下册古诗 图文+视频解析：第9首《大林寺桃花》</description>
+    </item>
+    
+    <item>
+      <title>语文三年级下古诗解析</title>
+      <link>http://example.org/04.mysql/chinese3outclass/chinese3_01unit_pemo/</link>
+      <pubDate>Fri, 17 Feb 2023 09:57:23 +0800</pubDate>
+      
+      <guid>http://example.org/04.mysql/chinese3outclass/chinese3_01unit_pemo/</guid>
+      <description>部编版三年级语文下册古诗 图文+视频解析 部编版三年级语文下册古诗 图文+视频解析
+部编版三年级语文下册古诗 图文+视频解析：第1首《绝句》
+部编版三年级语文下册古诗 图文+视频解析：第2首《惠崇&amp;lt;春江晚景&amp;gt;》
+部编版三年级语文下册古诗 图文+视频解析：第3首《三衢道中》
+部编版三年级语文下册古诗 图文+视频解析：第4首《忆江南》
+部编版三年级语文下册古诗 图文+视频解析：第5首《元日》
+部编版三年级语文下册古诗 图文+视频解析：第6首《清明》
+部编版三年级语文下册古诗 图文+视频解析：第7首《九月九日忆山东兄弟》
+部编版三年级语文下册古诗 图文+视频解析：第8首《滁州西涧》
+部编版三年级语文下册古诗 图文+视频解析：第9首《大林寺桃花》</description>
+    </item>
+    
+    <item>
+      <title>自然拼读等</title>
+      <link>http://example.org/05.spring/english3boutclass/english3bco02/</link>
+      <pubDate>Wed, 15 Feb 2023 17:33:00 +0800</pubDate>
+      
+      <guid>http://example.org/05.spring/english3boutclass/english3bco02/</guid>
+      <description>自然拼读视频
+第一季Wow English</description>
+    </item>
+    
+    <item>
+      <title>自然拼读等</title>
+      <link>http://example.org/06.jvm/english3boutclass/english3bco02/</link>
+      <pubDate>Wed, 15 Feb 2023 17:33:00 +0800</pubDate>
+      
+      <guid>http://example.org/06.jvm/english3boutclass/english3bco02/</guid>
+      <description>自然拼读视频
+第一季Wow English</description>
+    </item>
+    
+    <item>
+      <title>英语三年级下第一课总结</title>
+      <link>http://example.org/01.java/java001/english3b_1chapter/</link>
+      <pubDate>Wed, 15 Feb 2023 17:33:00 +0800</pubDate>
+      
+      <guid>http://example.org/01.java/java001/english3b_1chapter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
