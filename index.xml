@@ -8,21 +8,19 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Feb 2023 09:57:23 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>奥数01</title>
-      <link>http://example.org/02.git/math/chinese3b_01_test/</link>
+      <title>git尚硅谷笔记</title>
+      <link>http://example.org/02.git/git01/gitlearnatgg/</link>
       <pubDate>Fri, 17 Feb 2023 09:57:23 +0800</pubDate>
       
-      <guid>http://example.org/02.git/math/chinese3b_01_test/</guid>
-      <description>奥数题01 </description>
-    </item>
-    
-    <item>
-      <title>数学三年级下册知识点总结</title>
-      <link>http://example.org/02.git/math/chinese3b_01/</link>
-      <pubDate>Fri, 17 Feb 2023 09:57:23 +0800</pubDate>
-      
-      <guid>http://example.org/02.git/math/chinese3b_01/</guid>
-      <description>数学三年级下册第一单元总结 </description>
+      <guid>http://example.org/02.git/git01/gitlearnatgg/</guid>
+      <description>笔记来源：【尚硅谷】5h打通Git全套教程IDEA版（涵盖GitHub\Gitee码云\GitLab）
+[TOC]
+初识 Git 0、内容介绍 Git Git 介绍：分布式版本控制工具 VS 集中式版本控制工具 Git 安装：基于官网发布的最新版本 2.31.1 安装讲解 Git 命令：基于开发案例详细讲解了git的常用命令 Git 分支：分支特性、分支创建、分支转换、分支合并、代码合并冲突解决 IDEA 集成 Git GitHub 创建远程库 代码推送 Push 代码拉取 Pull 代码克隆 Clone SSH 免密登录 IDEA 集成 GitHub Gitee 码云 创建远程库 IDEA 集成 GitHub 码云连接 GitHub 进行代码的复制和迁移 GitLab GitLab 服务器的搭建和部署 IDEA 集成 GitLab 1、Git 概述 官网地址：http://git-scm.com/ --everything is local：分布式特性 Git 是一个免费的、开源的 分布式版本控制系统，可以快速高效地处理从小型到大型的各种项目
+Git 易于学习，占地面积小，性能极快。它具有廉价的本地库，方便的暂存区域和多个工作流分支等特性
+其性能优于 Subversion、CVS、Perforce 和 ClearCase 等版本控制工具
+1.1、何为版本控制？ 版本控制是一种记录文件内容变化，以便将来查阅特定版本修订情况的系统
+版本控制其实最重要的是可以记录文件修改历史记录，从而让用户能够查看历史版本，方便版本切换
+1.2、为什么需要版本控制？ 个人开发过渡到团队协作</description>
     </item>
     
     <item>

@@ -29,13 +29,10 @@
     <loc>http://example.org/09.maven/</loc>
     <lastmod>2023-02-15T17:30:43+08:00</lastmod>
   </url><url>
+    <loc>http://example.org/02.git/git01/gitlearnatgg/</loc>
+    <lastmod>2023-02-17T09:57:23+08:00</lastmod>
+  </url><url>
     <loc>http://example.org/</loc>
-    <lastmod>2023-02-17T09:57:23+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/02.git/math/chinese3b_01_test/</loc>
-    <lastmod>2023-02-17T09:57:23+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/02.git/math/chinese3b_01/</loc>
     <lastmod>2023-02-17T09:57:23+08:00</lastmod>
   </url><url>
     <loc>http://example.org/04.mysql/chinese3outclass/chinese3_01unit/</loc>
@@ -62,7 +59,7 @@
     <loc>http://example.org/04.mysql/chinese3outclass/</loc>
     <lastmod>2023-02-17T09:54:44+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/02.git/math/</loc>
+    <loc>http://example.org/02.git/git01/</loc>
     <lastmod>2023-02-17T09:54:44+08:00</lastmod>
   </url><url>
     <loc>http://example.org/03.redis/chinese3/</loc>
