@@ -24,7 +24,7 @@ images.wrap(function(){
   // IF featherlight is false, do not use feather light
   if (f != 'false') {
     if (!image.parent("a").length) {
-      return "<a href='" + image[0].src + "' data-featherlight='image'></a>";
+      return "<a target='_blank' href='" + image[0].src + "' data-featherlight='image'></a>";
     }
   }
 });

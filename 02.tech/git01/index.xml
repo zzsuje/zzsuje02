@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>01.Git学习笔记 on My New Hugo Site</title>
-    <link>http://example.org/02.git/git01/</link>
-    <description>Recent content in 01.Git学习笔记 on My New Hugo Site</description>
+    <title>01.Git on My New Hugo Site</title>
+    <link>http://example.org/02.tech/git01/</link>
+    <description>Recent content in 01.Git on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Feb 2023 09:54:44 +0800</lastBuildDate><atom:link href="http://example.org/02.git/git01/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Feb 2023 17:30:43 +0800</lastBuildDate><atom:link href="http://example.org/02.tech/git01/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>git尚硅谷笔记</title>
-      <link>http://example.org/02.git/git01/gitlearnatgg/</link>
+      <link>http://example.org/02.tech/git01/gitlearnatgg/</link>
       <pubDate>Fri, 17 Feb 2023 09:57:23 +0800</pubDate>
       
-      <guid>http://example.org/02.git/git01/gitlearnatgg/</guid>
+      <guid>http://example.org/02.tech/git01/gitlearnatgg/</guid>
       <description>笔记来源：【尚硅谷】5h打通Git全套教程IDEA版（涵盖GitHub\Gitee码云\GitLab）
 [TOC]
 初识 Git 0、内容介绍 Git Git 介绍：分布式版本控制工具 VS 集中式版本控制工具 Git 安装：基于官网发布的最新版本 2.31.1 安装讲解 Git 命令：基于开发案例详细讲解了git的常用命令 Git 分支：分支特性、分支创建、分支转换、分支合并、代码合并冲突解决 IDEA 集成 Git GitHub 创建远程库 代码推送 Push 代码拉取 Pull 代码克隆 Clone SSH 免密登录 IDEA 集成 GitHub Gitee 码云 创建远程库 IDEA 集成 GitHub 码云连接 GitHub 进行代码的复制和迁移 GitLab GitLab 服务器的搭建和部署 IDEA 集成 GitLab 1、Git 概述 官网地址：http://git-scm.com/ --everything is local：分布式特性 Git 是一个免费的、开源的 分布式版本控制系统，可以快速高效地处理从小型到大型的各种项目

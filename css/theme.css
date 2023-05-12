@@ -436,7 +436,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     border-bottom: 4px solid #F0F2F4;
 }
 #chapter p {
-    text-align: center;
+    text-align: left;
     font-size: 1.2rem;
 }
 #footer {
@@ -681,7 +681,7 @@ hr {
     background: #1d1f21;
 }
 #body-inner .tabs-wrapper.ui-theme-badges .tabs-nav li {
-    font-size: 0.9rem;
+    font-size: 0.7rem;
     text-transform: uppercase;
 }
 #body-inner .tabs-wrapper.ui-theme-badges .tabs-nav li a {
@@ -933,7 +933,10 @@ td {
     position: relative;
 }
 .lifecycle #body-inner ol li {
-    margin-left: 1rem;
+    margin-left: 1rem;  text-align : left;
+}
+.lifecycle #body-inner ol li p{
+    text-align : left;
 }
 .lifecycle #body-inner ol strong, .lifecycle #body-inner ol label, .lifecycle #body-inner ol th {
     text-decoration: underline;

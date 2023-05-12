@@ -2,68 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/10.hugo/</loc>
+    <loc>http://example.org/02.tech/git01/</loc>
     <lastmod>2023-02-15T17:30:43+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/01.java/</loc>
+    <loc>http://example.org/01.life/</loc>
     <lastmod>2023-02-15T17:30:43+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/01.java/java001/</loc>
+    <loc>http://example.org/02.tech/</loc>
     <lastmod>2023-02-15T17:30:43+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/02.git/</loc>
-    <lastmod>2023-02-15T17:30:43+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/03.redis/</loc>
-    <lastmod>2023-02-15T17:30:43+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/03.redis/chinese3/</loc>
-    <lastmod>2023-02-15T17:30:43+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/04.mysql/</loc>
-    <lastmod>2023-02-15T17:30:43+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/04.mysql/chinese3outclass/</loc>
-    <lastmod>2023-02-15T17:30:43+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/05.spring/</loc>
-    <lastmod>2023-02-15T17:30:43+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/05.spring/english3boutclass/</loc>
-    <lastmod>2023-02-15T17:30:43+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/06.jvm/</loc>
-    <lastmod>2023-02-15T17:30:43+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/06.jvm/english3boutclass/</loc>
-    <lastmod>2023-02-15T17:30:43+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/07.designmode/</loc>
-    <lastmod>2023-02-15T17:30:43+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/07.designmode/chinese3/</loc>
-    <lastmod>2023-02-15T17:30:43+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/08.mircservice/</loc>
-    <lastmod>2023-02-15T17:30:43+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/08.mircservice/chinese3/</loc>
-    <lastmod>2023-02-15T17:30:43+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/09.maven/</loc>
-    <lastmod>2023-02-15T17:30:43+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/09.maven/picture02/</loc>
-    <lastmod>2023-02-15T17:30:43+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/02.git/git01/gitlearnatgg/</loc>
+    <loc>http://example.org/02.tech/git01/gitlearnatgg/</loc>
     <lastmod>2023-02-17T09:57:23+08:00</lastmod>
   </url><url>
     <loc>http://example.org/</loc>
     <lastmod>2023-02-17T09:57:23+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/02.git/git01/</loc>
-    <lastmod>2023-02-17T09:54:44+08:00</lastmod>
   </url><url>
     <loc>http://example.org/categories/</loc>
   </url><url>
