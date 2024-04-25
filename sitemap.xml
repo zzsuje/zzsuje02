@@ -11,10 +11,13 @@
     <loc>http://example.org/02.tech/</loc>
     <lastmod>2023-02-15T17:30:43+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/02.tech/git01/gitlearnatgg/</loc>
-    <lastmod>2023-02-17T09:57:23+08:00</lastmod>
-  </url><url>
     <loc>http://example.org/</loc>
+    <lastmod>2024-04-25T09:57:23+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/02.tech/git01/git2/</loc>
+    <lastmod>2024-04-25T09:57:23+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/02.tech/git01/gitlearnatgg/</loc>
     <lastmod>2023-02-17T09:57:23+08:00</lastmod>
   </url><url>
     <loc>http://example.org/categories/</loc>
